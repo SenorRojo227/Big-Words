@@ -15,7 +15,7 @@ const WORDS = [
         word: "Excogitate",
         type: "verb",
         def: "to think out, plan, or devise.",
-        sentence: "Choosing to excogitate his next words, he continued in quietly."
+        sentence: "Choosing to excogitate his next words, he continued quietly."
     },
     {
         word: "Cynosure",

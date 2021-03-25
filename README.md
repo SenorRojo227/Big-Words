@@ -13,7 +13,7 @@ Project is created using:
 + CSS
 + Javascript
 
-# Setup
+## Setup
 1. Download all of the files.
 1. Place the files into a folder.
 2. Run **index.html**.
